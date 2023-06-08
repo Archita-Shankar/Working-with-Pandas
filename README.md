@@ -5,8 +5,9 @@ Understanding Data Handling using Pandas Library
 
 
 
+![working with pandas](https://github.com/Archita-Shankar/Working-with-Pandas/assets/121395581/ba23cc87-f6b4-4e35-ac01-07475ee0e4ce)
 
-![GitHub README (4)](https://github.com/Archita-Shankar/Working-with-Pandas/assets/121395581/6cbd9147-c488-480a-a0d5-f5bcf3dab036)
+
 
 
 
